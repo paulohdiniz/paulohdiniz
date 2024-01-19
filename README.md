@@ -14,20 +14,22 @@
 </div>
   
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="Paulo-matlab" height="30" width="40" src="https://www.svgrepo.com/show/373830/matlab.svg"/>
-  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Paulo-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
+  <img align="center" alt="Paulo-ruby" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"/>
+  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Paulo-matlab" height="30" width="40" src="https://www.svgrepo.com/show/373830/matlab.svg"/>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Paulo-net" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
+
 </div>
   
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/phdf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ph.diniz@usp.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/paulohdiniz7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-PauloDiniz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phdf/)](https://www.linkedin.com/in/phdf/)
+[![Youtube Badge](https://img.shields.io/badge/-PauloDinizYT-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@PauloDinizYT)](https://www.youtube.com/@PauloDinizYT)
+[![Gmail Badge](https://img.shields.io/badge/-ph.diniz@usp.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ph.diniz@usp.br)](mailto:ph.diniz@usp.br)
  
 </div>
